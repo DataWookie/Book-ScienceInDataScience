@@ -1,5 +1,5 @@
 # Summary
 
 * [The Scientific Method](chapters/scientific_method.md)
-* Reproducibility
+* [Reproducibility](chapters/chapters/reproducibility.md)
 
