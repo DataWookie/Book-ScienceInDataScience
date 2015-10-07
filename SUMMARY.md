@@ -1,4 +1,4 @@
 # Summary
 
-* The Scientific Method
+* [The Scientific Method](chapters/scientific_method.md)
 
